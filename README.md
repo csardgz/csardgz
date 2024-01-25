@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @csardgz, an Electrical engineer - Data science beginner.
-- Electrician in the power sistems area.
+- Electrician in the power systems area.
 
 
 <!---
