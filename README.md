@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @csardgz, an Electrical engineer - Data science beginner.
+- 👋 Hi, I’m @csardgz, an Electrical engineer - Python developer.
 - Electrician in the power systems area.
 
 
